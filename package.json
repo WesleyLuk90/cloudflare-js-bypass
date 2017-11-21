@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "jasmine": "^2.8.0",
+    "superagent": "^3.8.1"
+  },
+  "name": "cloudflare-js-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wesley Luk <wesleyluk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^5.2.1",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
